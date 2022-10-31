@@ -56,7 +56,6 @@
     border-radius: 10px;
     border: 0px;
     color: #fff;
-    
     margin-left: 500px;
 }
 
@@ -70,7 +69,7 @@
     padding: 0px 0.1%;
     margin: -6px 0px 45px 1%;
     position: absolute;
-    padding-bottom: 25px;
+    margin-bottom: 70px;
 }
 .caixa-de-texto{
     height: 40px;
@@ -125,4 +124,5 @@
     display: flex;
     flex-direction: row;
     width: 100%;
+    
 }
